@@ -1,35 +1,3 @@
- # ATM Machine
-
-# class Bank_Account :
-#     def __init__(self, Name, Account_Number, Pin, Balance):
-#         self.Name = Name
-#         self.Account_Number = Account_Number
-#         self.Pin = Pin 
-#         self.Balance = Balance
-#         self.Transition = []
-
-#     def display_Detail(self):
-#         print("Name : ", self.Name)
-#         print("Account_Number : ", self.Account_Number)
-#         print("Pin : ", self.Pin)
-#         print("Balance : ", self.Balance)
-
-
-#     def add_Bank_Account():
-#         print("add New Account")
-
-#         Name = input("Enter Your Name : ", )
-#         Account_Number = input("Enter Your Account Number : ", )
-#         Pin = input("Enter Your Pin : ", )
-#         Balance = input("Enter Your Bank Balance : ", )
-
-#     BankAcc = BankAcc(Name, Account_Number, Pin, Balance)
-#     list.appent(BankAcc)        
-
-#     print("Account Added Successfully")
-
-
-
 # ==============================
 # ATM MACHINE
 # ==============================
@@ -106,8 +74,8 @@ class BankAccount:
 # ==============================
 
 account = BankAccount(
-    "Yuvraj",
-    "123456789",
+    "Indo",
+    "11111111111",
     "1234",
     5000
 )
